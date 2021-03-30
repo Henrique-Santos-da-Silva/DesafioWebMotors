@@ -1,0 +1,12 @@
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\bin\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.deps.json
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\bin\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.runtimeconfig.json
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\bin\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.runtimeconfig.dev.json
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\bin\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.dll
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\bin\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.pdb
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.AssemblyInfoInputs.cache
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.AssemblyInfo.cs
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.csproj.CoreCompileInputs.cache
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.dll
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.pdb
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.genruntimeconfig.cache
+W:\Projetos-Pessoais\Desafios-Empregos\TesteWebMotors\TesteBackendWebMotors\TesteBackendWebMotors.Data\obj\Debug\netcoreapp3.1\TesteBackendWebMotors.Data.csprojAssemblyReference.cache

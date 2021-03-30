@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBackendWebMotors.Data", "TesteBackendWebMotors.Data\TesteBackendWebMotors.Data.csproj", "{FAC26804-7F3F-4F07-9F7D-8FE08CD31F03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBackendWebMotors.WebApi", "TesteBackendWebMotors.WebApi\TesteBackendWebMotors.WebApi.csproj", "{58153D71-628E-4DEE-98A9-67DDE461DACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC26804-7F3F-4F07-9F7D-8FE08CD31F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC26804-7F3F-4F07-9F7D-8FE08CD31F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC26804-7F3F-4F07-9F7D-8FE08CD31F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC26804-7F3F-4F07-9F7D-8FE08CD31F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58153D71-628E-4DEE-98A9-67DDE461DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58153D71-628E-4DEE-98A9-67DDE461DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58153D71-628E-4DEE-98A9-67DDE461DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58153D71-628E-4DEE-98A9-67DDE461DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66AE14E2-F0D5-4B60-ACAD-F8BEAC1FA5EC}
+	EndGlobalSection
+EndGlobal
